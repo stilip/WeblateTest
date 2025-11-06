@@ -1,222 +1,224 @@
 <?xml version="1.0" encoding="utf-8"?>
-
 <root>
-    <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
-        <xsd:element name="root" msdata:IsDataSet="true">
+  <xsd:schema xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" id="root">
+    <xsd:element name="root" msdata:IsDataSet="true">
             
         </xsd:element>
-    </xsd:schema>
-    <resheader name="resmimetype">
-        <value>text/microsoft-resx</value>
-    </resheader>
-    <resheader name="version">
-        <value>1.3</value>
-    </resheader>
-    <resheader name="reader">
-        <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <resheader name="writer">
-        <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-    </resheader>
-    <data name="Muzi" xml:space="preserve">
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>1.3</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Muzi" xml:space="preserve">
         <value>Muži</value>
-    </data>
-    <data name="CelkemOsob" xml:space="preserve">
+  </data>
+  <data name="CelkemOsob" xml:space="preserve">
         <value>Celkem osob</value>
-    </data>
-    <data name="Zeny" xml:space="preserve">
+  </data>
+  <data name="Zeny" xml:space="preserve">
         <value>Ženy</value>
-    </data>
-    <data name="Jine" xml:space="preserve">
+  </data>
+  <data name="Jine" xml:space="preserve">
         <value>Jiné</value>
-    </data>
-    <data name="Povinni" xml:space="preserve">
+  </data>
+  <data name="Povinni" xml:space="preserve">
         <value>Povinní</value>
-    </data>
-    <data name="Zadatele" xml:space="preserve">
+  </data>
+  <data name="Zadatele" xml:space="preserve">
         <value>Žadatelé</value>
-    </data>
-    <data name="Cekatele" xml:space="preserve">
+  </data>
+  <data name="Cekatele" xml:space="preserve">
         <value>Čekatelé</value>
-    </data>
-    <data name="Pouzitelni" xml:space="preserve">
+  </data>
+  <data name="Pouzitelni" xml:space="preserve">
         <value>Použitelní</value>
-    </data>
-    <data name="Nepouzitelni" xml:space="preserve">
+  </data>
+  <data name="Nepouzitelni" xml:space="preserve">
         <value>Nepoužitelní</value>
-    </data>
-    <data name="VojaciZPovolani" xml:space="preserve">
+  </data>
+  <data name="VojaciZPovolani" xml:space="preserve">
         <value>Vojáci z povolání</value>
-    </data>
-    <data name="NacitaniStatistik" xml:space="preserve">
+  </data>
+  <data name="NacitaniStatistik" xml:space="preserve">
         <value>Načítání statistik...</value>
-    </data>
-    <data name="NepodariloseNacistStatistiky" xml:space="preserve">
+  </data>
+  <data name="NepodariloseNacistStatistiky" xml:space="preserve">
         <value>Nepodařilo se načíst statistiky</value>
-    </data>
-    <data name="Profese" xml:space="preserve">
+  </data>
+  <data name="Profese" xml:space="preserve">
         <value>Profese</value>
-    </data>
-    <data name="RpAZp" xml:space="preserve">
+  </data>
+  <data name="RpAZp" xml:space="preserve">
         <value>ŘP a ZP</value>
-    </data>
-    <data name="Vzdelani" xml:space="preserve">
+  </data>
+  <data name="Vzdelani" xml:space="preserve">
         <value>Vzdělání</value>
-    </data>
-    <data name="Branci" xml:space="preserve">
+  </data>
+  <data name="Branci" xml:space="preserve">
         <value>Branci</value>
-    </data>
-    <data name="AktivniZalohy" xml:space="preserve">
+  </data>
+  <data name="AktivniZalohy" xml:space="preserve">
         <value>Aktivní zálohy</value>
-    </data>
-    <data name="Osoby" xml:space="preserve">
+  </data>
+  <data name="Osoby" xml:space="preserve">
         <value>Osoby</value>
-    </data>
-    <data name="Detail" xml:space="preserve">
+  </data>
+  <data name="Detail" xml:space="preserve">
         <value>Detail</value>
-    </data>
-    <data name="NovyZaznam" xml:space="preserve">
+  </data>
+  <data name="NovyZaznam" xml:space="preserve">
         <value>Nový záznam</value>
-    </data>
-    <data name="MapaVse" xml:space="preserve">
+  </data>
+  <data name="MapaVse" xml:space="preserve">
         <value>Mapa - vše</value>
-    </data>
-    <data name="MapaOsoba" xml:space="preserve">
+  </data>
+  <data name="MapaOsoba" xml:space="preserve">
         <value>Mapa - osoba</value>
-    </data>
-    <data name="Nacitani" xml:space="preserve">
+  </data>
+  <data name="Nacitani" xml:space="preserve">
         <value>Načítání…</value>
-    </data>
-    <data name="ZadnaDataProMapu" xml:space="preserve">
+  </data>
+  <data name="ZadnaDataProMapu" xml:space="preserve">
         <value>Žádná data pro mapu</value>
-    </data>
-    <data name="Archivace" xml:space="preserve">
+  </data>
+  <data name="Archivace" xml:space="preserve">
         <value>Archivace</value>
-    </data>
-    <data name="UdajeBylyZmeneny" xml:space="preserve">
+  </data>
+  <data name="UdajeBylyZmeneny" xml:space="preserve">
         <value>(Údaje byly změněny)</value>
-    </data>
-    <data name="OsobniUdaje" xml:space="preserve">
+  </data>
+  <data name="OsobniUdaje" xml:space="preserve">
         <value>Osobní údaje</value>
-    </data>
-    <data name="Dovednosti" xml:space="preserve">
+  </data>
+  <data name="Dovednosti" xml:space="preserve">
         <value>Dovednosti</value>
-    </data>
-    <data name="AktivniZaloha" xml:space="preserve">
+  </data>
+  <data name="AktivniZaloha" xml:space="preserve">
         <value>Aktivní záloha</value>
-    </data>
-    <data name="DobrovolnePredurceni" xml:space="preserve">
+  </data>
+  <data name="DobrovolnePredurceni" xml:space="preserve">
         <value>Dobrovolné předurčení</value>
-    </data>
-    <data name="DobrovolneCviceni" xml:space="preserve">
+  </data>
+  <data name="DobrovolneCviceni" xml:space="preserve">
         <value>Dobrovolné cvičení</value>
-    </data>
-    <data name="VojakZPovolani" xml:space="preserve">
+  </data>
+  <data name="VojakZPovolani" xml:space="preserve">
         <value>Voják z povolání</value>
-    </data>
-    <data name="PrubehSluzby" xml:space="preserve">
+  </data>
+  <data name="PrubehSluzby" xml:space="preserve">
         <value>Průběh služby</value>
-    </data>
-    <data name="OdvodPrezkum" xml:space="preserve">
+  </data>
+  <data name="OdvodPrezkum" xml:space="preserve">
         <value>Odvod / Přezkum</value>
-    </data>
-    <data name="VojenskaKnizka" xml:space="preserve">
+  </data>
+  <data name="VojenskaKnizka" xml:space="preserve">
         <value>Vojenská knížka</value>
-    </data>
-    <data name="Rodina" xml:space="preserve">
+  </data>
+  <data name="Rodina" xml:space="preserve">
         <value>Rodina</value>
-    </data>
-    <data name="Zprosteni" xml:space="preserve">
+  </data>
+  <data name="Zprosteni" xml:space="preserve">
         <value>Zproštění</value>
-    </data>
-    <data name="Potvrzeni" xml:space="preserve">
+  </data>
+  <data name="Potvrzeni" xml:space="preserve">
         <value>Potvrzení</value>
-    </data>
-    <data name="Vyznamenani" xml:space="preserve">
+  </data>
+  <data name="Vyznamenani" xml:space="preserve">
         <value>Vyznamenání</value>
-    </data>
-    <data name="Dokumenty" xml:space="preserve">
+  </data>
+  <data name="Dokumenty" xml:space="preserve">
         <value>Dokumenty</value>
-    </data>
-    <data name="Poznamky" xml:space="preserve">
+  </data>
+  <data name="Poznamky" xml:space="preserve">
         <value>Poznámky</value>
-    </data>
-    <data name="TiskSestavy" xml:space="preserve">
+  </data>
+  <data name="TiskSestavy" xml:space="preserve">
         <value>Tisk Sestavy</value>
-    </data>
-    <data name="Odarchivace" xml:space="preserve">
+  </data>
+  <data name="Odarchivace" xml:space="preserve">
         <value>Odarchivace</value>
-    </data>
-    <data name="OdarchivovanRocnik" xml:space="preserve">
+  </data>
+  <data name="OdarchivovanRocnik" xml:space="preserve">
         <value>Odarchivovat ročník (Test)</value>
-    </data>
-    <data name="RocnikNarozeni" xml:space="preserve">
+  </data>
+  <data name="RocnikNarozeni" xml:space="preserve">
         <value>Ročník narození</value>
-    </data>
-    <data name="VybratOsoby" xml:space="preserve">
+  </data>
+  <data name="VybratOsoby" xml:space="preserve">
         <value>Vybrat osoby</value>
-    </data>
-    <data name="ArchivovaneOsoby" xml:space="preserve">
+  </data>
+  <data name="ArchivovaneOsoby" xml:space="preserve">
         <value>Archivované osoby</value>
-    </data>
-    <data name="NacistSouborZadosti" xml:space="preserve">
+  </data>
+  <data name="NacistSouborZadosti" xml:space="preserve">
         <value>Načíst soubor žádosti</value>
-    </data>
-    <data name="PotvditZpracovani" xml:space="preserve">
+  </data>
+  <data name="PotvditZpracovani" xml:space="preserve">
         <value>Potvrdit zpracování</value>
-    </data>
-    <data name="TiskPotvrzeni" xml:space="preserve">
+  </data>
+  <data name="TiskPotvrzeni" xml:space="preserve">
         <value>Tisk potvrzení</value>
-    </data>
-    <data name="ValidaceXmlSouboru" xml:space="preserve">
+  </data>
+  <data name="ValidaceXmlSouboru" xml:space="preserve">
         <value>Validace .xml souboru</value>
-    </data>
-    <data name="UlozeneDotazy" xml:space="preserve">
+  </data>
+  <data name="UlozeneDotazy" xml:space="preserve">
         <value>Uložené dotazy</value>
-    </data>
-    <data name="Novy" xml:space="preserve">
+  </data>
+  <data name="Novy" xml:space="preserve">
         <value>Nový</value>
-    </data>
-    <data name="Smazat" xml:space="preserve">
+  </data>
+  <data name="Smazat" xml:space="preserve">
         <value>Smazat</value>
-    </data>
-    <data name="DatovaSada" xml:space="preserve">
+  </data>
+  <data name="DatovaSada" xml:space="preserve">
         <value>Datová sada:</value>
-    </data>
-    <data name="Ziva" xml:space="preserve">
+  </data>
+  <data name="Ziva" xml:space="preserve">
         <value>Živá</value>
-    </data>
-    <data name="Archivni" xml:space="preserve">
+  </data>
+  <data name="Archivni" xml:space="preserve">
         <value>Archivní</value>
-    </data>
-    <data name="EvidenceZakladni" xml:space="preserve">
+  </data>
+  <data name="EvidenceZakladni" xml:space="preserve">
         <value>Evidence základní</value>
-    </data>
-    <data name="EvidencePomocna" xml:space="preserve">
+  </data>
+  <data name="EvidencePomocna" xml:space="preserve">
         <value>Evidence pomocná</value>
-    </data>
-    <data name="ZdravotniKlasifikace" xml:space="preserve">
+  </data>
+  <data name="ZdravotniKlasifikace" xml:space="preserve">
         <value>Zdravotní klasifikace</value>
-    </data>
-    <data name="NacitamData" xml:space="preserve">
+  </data>
+  <data name="NacitamData" xml:space="preserve">
         <value>Načítám data...</value>
-    </data>
-    <data name="GeografickeRozlozeniAPrehled" xml:space="preserve">
+  </data>
+  <data name="GeografickeRozlozeniAPrehled" xml:space="preserve">
         <value>Geografické rozložení a přehledy</value>
-    </data>
-    <data name="ResetovatVyber" xml:space="preserve">
+  </data>
+  <data name="ResetovatVyber" xml:space="preserve">
         <value>Resetovat výběr</value>
-    </data>
-    <data name="ZadnaDataProZobrazeni" xml:space="preserve">
+  </data>
+  <data name="ZadnaDataProZobrazeni" xml:space="preserve">
         <value>Žádná data pro zobrazení</value>
-    </data>
-    <data name="Pocet" xml:space="preserve">
+  </data>
+  <data name="Pocet" xml:space="preserve">
         <value>Počet</value>
-    </data>
-    <data name="Odpal" xml:space="preserve">
+  </data>
+  <data name="Odpal" xml:space="preserve">
         <value>Odpal</value>
-    </data>
-    <data name="Meta" xml:space="preserve">
+  </data>
+  <data name="Meta" xml:space="preserve">
         <value>Meta</value>
-    </data>
+  </data>
+  <data name="Hrac" xml:space="preserve">
+    <value>Hráč</value>
+  </data>
 </root>
