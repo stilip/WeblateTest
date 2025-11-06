@@ -213,4 +213,7 @@
     <data name="Pocet" xml:space="preserve">
         <value>Počet</value>
     </data>
+    <data name="Odpal" xml:space="preserve">
+        <value></value>
+    </data>
 </root>
