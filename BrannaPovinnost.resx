@@ -216,4 +216,7 @@
     <data name="Odpal" xml:space="preserve">
         <value>Odpal</value>
     </data>
+    <data name="Meta" xml:space="preserve">
+        <value></value>
+    </data>
 </root>
